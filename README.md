@@ -1,4 +1,5 @@
 Zhu, L., Sun, W., Zhang, Y. et al. A Dynamic Time Warping Method Integrating Sugarcane Phenology Characteristics and Class Probabilities using Sentinel-2 NDVI Time Series. Sugar Tech (2025). https://doi.org/10.1007/s12355-025-01638-7
+
 https://link.springer.com/article/10.1007/s12355-025-01638-7
 
 # SPC-DTW
